@@ -1,0 +1,17 @@
+{
+  "/(auth)/auth/page": "/auth",
+  "/(main)/announcements/page": "/announcements",
+  "/(main)/billing/page": "/billing",
+  "/(main)/bookings/page": "/bookings",
+  "/(main)/communities/page": "/communities",
+  "/(main)/complaints/page": "/complaints",
+  "/(main)/forms/page": "/forms",
+  "/(main)/marketing/page": "/marketing",
+  "/(main)/page": "/",
+  "/(main)/residents/page": "/residents",
+  "/(main)/services/page": "/services",
+  "/(main)/settings/page": "/settings",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/users/page": "/users"
+}

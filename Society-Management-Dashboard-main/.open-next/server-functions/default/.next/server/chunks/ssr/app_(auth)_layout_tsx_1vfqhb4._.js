@@ -1,0 +1,3 @@
+module.exports=[812498,a=>{"use strict";var b=a.i(907997);a.s(["default",0,({children:a})=>(0,b.jsx)("div",{className:"h-screen w-screen flex items-center justify-center bg-gray-100 dark:bg-gray-900",children:(0,b.jsx)("div",{className:"w-full max-w-md px-4 flex items-center justify-center",children:a})})])},686024,a=>{a.n(a.i(812498))}];
+
+//# sourceMappingURL=app_%28auth%29_layout_tsx_1vfqhb4._.js.map
